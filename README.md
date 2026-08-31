@@ -11,6 +11,7 @@ echo $PATH
 ```bash
 mkdir -p ~/.local/bin
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
 ```
 
 2. Add lec to .local/bin
