@@ -8,9 +8,9 @@ Help for lecture note-taking
 ```bash
 echo $PATH
 ```
-```Add to path
+```bash
 mkdir -p ~/.local/bin
-export PATH="$HOME/.local/bin:$PATH
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 ```
 
 2. Add lec to .local/bin
