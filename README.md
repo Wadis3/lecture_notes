@@ -51,7 +51,7 @@ lec name_of_lecture
 * 
 
 ## Funderingar och frågor
-* []
+* [x]
 * []
 
 ## Repetera
