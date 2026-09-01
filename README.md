@@ -25,35 +25,3 @@ cp new_lecture.sh ~/.local/bin/lec
 ```bash
 lec name_of_lecture
 ```
-
-# Resultat föreläsningar
-
-## Info
->
-
-## Begrepp
-
-* 
-
-## Teori
-
-### Underrubrik
-> 
-
-## Övningar
-
-1. 
-\`\`\`java
-
-\`\`\`
-
-## Take-aways
-* 
-
-## Funderingar och frågor
- - [x]
- - []
-
-## Repetera
-* []
-* []
