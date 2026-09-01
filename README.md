@@ -25,8 +25,8 @@ cp new_lecture.sh ~/.local/bin/lec
 ```bash
 lec name_of_lecture
 ```
-```md
-# $1
+
+# Resultat föreläsningar
 
 ## Info
 >
@@ -57,4 +57,3 @@ lec name_of_lecture
 ## Repetera
 * []
 * []
-```
