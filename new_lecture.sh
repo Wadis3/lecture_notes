@@ -37,5 +37,8 @@ cat > $1.md <<EOF
 ## Funderingar och frågor
 * []
 * []
-## 
+
+## Repetera
+* []
+* []
 EOF
